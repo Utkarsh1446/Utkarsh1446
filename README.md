@@ -5,7 +5,9 @@ Student and Web3 enthusiast
 ---------------------------
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [us3233@srmist.edu.jn](mailto:us3233@srmist.edu.jn)### Skills<p align="left">
+*   ✉️  You can contact me at [us3233@srmist.edu.jn](mailto:us3233@srmist.edu.jn)
+
+### Skills<p align="left">
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
                                 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
                                 <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
